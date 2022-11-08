@@ -1,0 +1,157 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    /* align-items: center; */
+}
+body {
+    background: url("./ash.jpg");
+    background-color: antiquewhite;
+    font-size: large;;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    background-size: 100%;
+    /* background-position: */
+    line-height: 30px;
+    mix-blend-mode: multiply;
+    /* background-repeat: repeat-y; */
+}
+.images {
+    transform: translateY(20%);
+    display: block;
+    margin: auto;
+    width: 70%
+}
+.text_div{
+    align-items: baseline;
+}
+#div1 {
+    height: 400px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3%;
+}
+#div2 {
+    height: 400px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3%;
+}
+#div3 {
+    height: 400px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3%;
+}
+#div4 {
+    height: 400px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3%;
+}
+#div5 {
+    height: 400px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3%;
+}
+#div6 {
+    height: 400px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3%;
+}
+.normal {
+    background-color: gray;
+    text-align: center;
+    font-weight: bold ;
+}
+.fire {
+    background-color: orangered;
+    text-align: center;
+    font-weight: bold;
+}
+.water {
+    background-color: blue;
+    font-weight: bold;
+    font-size: 20px;
+}
+.electric {
+    background-color: goldenrod;
+    font-weight: bold;
+}
+.grass {
+    background-color: green;
+    font-weight: bold;
+}
+.ice {
+    background-color: lightblue;
+    font-weight: bold;
+}
+.fighting {
+    background-color: maroon;
+    font-weight: bold;
+}
+.poison {
+    background-color: lime;
+    font-weight: bold;
+}
+.ground {
+    background-color: rgb(92, 76, 55);
+    font-weight: bold;
+}
+.flying {
+    background-color: whitesmoke;
+    font-weight: bold;
+}
+.phychic {
+    background-color: purple;
+    font-weight: bold;
+}
+.bug {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+.rock {
+    background-color: slategray;
+    font-weight: bold;
+}
+.ghost {
+    background-color: mediumslateblue;
+    font-weight: bold;
+}
+.dragon {
+    background-color: red;
+    font-weight: bold;
+}
+.dark {
+    background-color: rgb(57, 57, 59);
+    font-weight: bold;
+}
+.steel {
+    background-color: rgb(168, 168, 168);
+    font-weight: bold;
+}
+.fairy {
+    background-color: pink;
+    font-weight: bold;
+}
